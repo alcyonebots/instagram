@@ -1,0 +1,8 @@
+aiohttp==3.9.1
+aiofiles==23.2.1
+requests==2.31.0
+urllib3==2.1.0
+user-agent==0.1.10
+cfonts==1.4.0
+colorama==0.4.6
+pytz==2023.3
